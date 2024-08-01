@@ -9,6 +9,7 @@ import os
 dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, '../model/logistic_regression_model.pkl')
 
+
 def train():
     # Load the iris dataset
     iris = load_iris()
@@ -30,6 +31,7 @@ def train():
     joblib.dump(model, filename)
 
     print("Model training complete and saved to model/logistic_regression_model.pkl")
+
 
 if __name__ == "__main__":
     train()
