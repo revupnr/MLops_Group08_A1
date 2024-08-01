@@ -25,5 +25,6 @@ def test_train():
     # Check that the model file is created
     assert os.path.exists(model_path), "Model file not created"
 
+
 if __name__ == "__main__":
     pytest.main(["-v", "tests/test_train.py"])
