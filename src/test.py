@@ -5,10 +5,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import joblib
 import os
-
+dirname = os.path.dirname(__file__)
+model_path= os.path.join(dirname, '../model/logistic_regression_model.pkl')
 def test_model():
     # Check if the model file exists
-    model_path = "model/logistic_regression_model.pkl"
+    
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"Model file not found at {model_path}")
 
