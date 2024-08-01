@@ -12,18 +12,19 @@ sys.path.insert(0, os.path.abspath
                 (os.path.join(os.path.dirname(__file__), '../src')))
 
 def test_train():
+
   
     # Ensure the model directory does not exist before training
-  
+
     if os.path.exists("model/logistic_regression_model.pkl"):
         os.remove("model/logistic_regression_model.pkl")
-        
+
     # Run the training function
     train()
 
     # Check that the model file is created
     assert os.path.exists(
-            "model/logistic_regression_model.pkl"), "Model file not created"
+    "model/logistic_regression_model.pkl"), "Model file not created"
 
 
 if __name__ == "__main__":
