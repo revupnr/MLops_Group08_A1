@@ -66,5 +66,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t 2022ac05547/mlops_group08_a1:latest .
+          docker build -t 2022ac05547/mlops_group08_a1:latest
           docker push 2022ac05547/mlops_group08_a1:latest
