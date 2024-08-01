@@ -11,6 +11,7 @@ sys.path.insert(
     0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'))
 )
 
+
 def test_train():
     """Test the training function."""
     # Ensure the model directory does not exist before training
