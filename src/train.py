@@ -16,7 +16,8 @@ def train():
     X, y = iris.data, iris.target
 
     # Split the dataset into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(
+                            X, y, test_size=0.2, random_state=42)
 
     # Create and train the model
     model = LogisticRegression(max_iter=200)
@@ -30,7 +31,7 @@ def train():
     os.makedirs("model", exist_ok=True)
     joblib.dump(model, filename)
 
-    print("Model training complete and saved to model/logistic_regression_model.pkl")
+    print("Model training complete and saved")
 
 
 if __name__ == "__main__":
