@@ -1,0 +1,1 @@
+{"alpha": [0.1, 1.0, 10.0, 100.0], "solver": ["auto", "svd", "cholesky", "lsqr", "sparse_cg", "sag", "saga"]}

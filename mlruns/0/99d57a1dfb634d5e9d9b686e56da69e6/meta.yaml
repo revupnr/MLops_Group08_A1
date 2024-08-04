@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/99d57a1dfb634d5e9d9b686e56da69e6/artifacts
+deleted_time: 1722767628638
+end_time: 1722767414679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 99d57a1dfb634d5e9d9b686e56da69e6
+run_name: nn_optuna_tuning
+run_uuid: 99d57a1dfb634d5e9d9b686e56da69e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722767414631
+status: 4
+tags: []
+user_id: ReBalan

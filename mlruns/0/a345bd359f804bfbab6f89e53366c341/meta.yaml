@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/a345bd359f804bfbab6f89e53366c341/artifacts
+end_time: 1722769796393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a345bd359f804bfbab6f89e53366c341
+run_name: grid_search_25
+run_uuid: a345bd359f804bfbab6f89e53366c341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722769796294
+status: 3
+tags: []
+user_id: ReBalan

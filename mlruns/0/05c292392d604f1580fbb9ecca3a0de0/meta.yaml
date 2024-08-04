@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/05c292392d604f1580fbb9ecca3a0de0/artifacts
+end_time: 1722769755909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05c292392d604f1580fbb9ecca3a0de0
+run_name: simple_linear_regression
+run_uuid: 05c292392d604f1580fbb9ecca3a0de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722769751759
+status: 3
+tags: []
+user_id: ReBalan

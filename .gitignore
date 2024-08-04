@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+bostonhousepricing-main/bostonhousepricing-main/mlruns/0/05c292392d604f1580fbb9ecca3a0de0/artifacts/simple_linear_regression_model/model.pkl

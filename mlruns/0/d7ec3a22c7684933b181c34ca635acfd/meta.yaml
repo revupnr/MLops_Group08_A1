@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/d7ec3a22c7684933b181c34ca635acfd/artifacts
+deleted_time: 1722767628647
+end_time: 1722767533558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d7ec3a22c7684933b181c34ca635acfd
+run_name: Ridge_Regression_Grid_Search
+run_uuid: d7ec3a22c7684933b181c34ca635acfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722767533222
+status: 4
+tags: []
+user_id: ReBalan

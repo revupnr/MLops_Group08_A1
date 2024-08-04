@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/17d223f3f9c04f428d66641f31964fbe/artifacts
+deleted_time: 1722766116155
 end_time: 1722404198743
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 17d223f3f9c04f428d66641f31964fbe
 run_name: linear_regression
 run_uuid: 17d223f3f9c04f428d66641f31964fbe

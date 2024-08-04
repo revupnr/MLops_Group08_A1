@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ReBalan/REVATHI/Semester3/MLOps/MLOps_Group08_A1/bostonhousepricing-main/bostonhousepricing-main/mlruns/0/46cdd21f7b374237852d8336891e97bc/artifacts
+deleted_time: 1722766628242
+end_time: 1722766362485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 46cdd21f7b374237852d8336891e97bc
+run_name: simple_neural_network
+run_uuid: 46cdd21f7b374237852d8336891e97bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722766350352
+status: 3
+tags: []
+user_id: ReBalan
